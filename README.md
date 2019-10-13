@@ -1,15 +1,8 @@
-This is a data cleaning process on data I scraped from NSW Fuel Price Dataset.
+This is a data science project that illustrates how to obtain data from the web, do some cleanups, and store it in a relational database. 
 
-I scraped this site
+The data is open source and the website is : https://data.nsw.gov.au/data/dataset/fuel-check
 
-https://data.nsw.gov.au/data/dataset/fuel-check
 
-and did some cleanups before outputting the data.
 
-*Please Note
-
-1. The csv files are not included as they are quite large
-
-2. Relative paths are used here, so please replace the file paths with where You wish to point the download to.
 
 
