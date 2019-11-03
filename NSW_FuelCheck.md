@@ -143,7 +143,7 @@ we filter for only rows where the format contains “xlsx”.<br> <br> Quite
 a number of steps, yeah, however, breaking a problem into chunks is a
 very good way to solve a problem.<br> We have downloaded the JSON file
 and extracted the urls; the last task is to download the actual datasets
-of historical fuel prices in NSW.<br> \#\#\# To get the files, we need
+of historical fuel prices in NSW.<br>  To get the files, we need
 to create a directory to house the files. Since our end point is a
 database, we will make do with temporary files.<br> We will use the
 identifiers from the json file names section to create the temporary
